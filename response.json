@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+      "id": 137861565,
+      "name": "GameHub",
+      "screen_name": "gamehub",
+      "is_closed": 0,
+      "type": "page",
+      "is_admin": 0,
+      "is_member": 1,
+      "is_advertiser": 0,
+      "photo_50": "https://sun1-96.userapi.com/s/v1/if1/_6CoBpT7q8kv-uyeVWiCznST7CkuyPJp5tZnTmI5Xj7DITNi8otzh01RSfI4f-Y8R7Yd_6jD.jpg?size=50x50&quality=96&crop=66,66,368,368&ava=1",
+      "photo_100": "https://sun1-96.userapi.com/s/v1/if1/nn_9sTCU0idmOUDTq92CW52su1E9XHDxzUD27WdmCy2wb2aLG3dg4cj44Ux4JlTO9n5xhN8Z.jpg?size=100x100&quality=96&crop=66,66,368,368&ava=1",
+      "photo_200": "https://sun1-96.userapi.com/s/v1/if1/eguBdDS4Jm2HrKewzWrn4N7TsJWPsJqzFYS4YDirwG0jw7iBcBGvjsE1YfNa_f93jKcIcf4J.jpg?size=200x200&quality=96&crop=66,66,368,368&ava=1"
+    }
+  ]
+}
