@@ -1,4 +1,3 @@
-from xml.etree.ElementTree import tostring
 import requests
 import json
 import urllib.parse
