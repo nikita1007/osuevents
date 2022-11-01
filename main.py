@@ -23,18 +23,18 @@ config = dotenv_values(".env")
 
 # print(r.json()['response'][0]['id'])
 
-# params = urllib.parse.urlencode({
-#   'owner_id': '-137861565',
-#   'count': '10',
-# })
+params = urllib.parse.urlencode({
+  'owner_id': '-137861565',
+  'count': '10',
+})
 
-# url = "https://api.vk.com/method/wall.get?{params}&access_token={token}&v={api_version}".format(params=params,token=config.get('VK_APP_API_KEY'), api_version=config.get('VK_APP_VER'))
+url = "https://api.vk.com/method/wall.get?{params}&access_token={token}&v={api_version}".format(params=params,token=config.get('VK_APP_API_KEY'), api_version=config.get('VK_APP_VER'))
 
-# r = requests.get(url)
+r = requests.get(url)
 
-# f = open('group_wall.json', 'w+')
+f = open('group_wall.json', 'w+')
 
-# f.write(r.text)
+f.write(r.text)
 
 # con = sqlite3.connect('test.sqlite3')
 
@@ -42,12 +42,14 @@ config = dotenv_values(".env")
 
 # con.execute('INSERT INTO test (id) VALUES (1)')
 
-params = urllib.parse.urlencode({
-  'group_id': 'aki_osu',
-})
+# params = urllib.parse.urlencode({
+#   'group_id': 'aki_osu',
+# })
 
-url = "https://api.vk.com/method/groups.getById?{params}&access_token={token}&v={api_version}".format(params=params,token=config.get('VK_APP_API_KEY'), api_version=config.get('VK_APP_VER'))
+# url = "https://api.vk.com/method/groups.getById?{params}&access_token={token}&v={api_version}".format(params=params,token=config.get('VK_APP_API_KEY'), api_version=config.get('VK_APP_VER'))
 
-r = requests.get(url)
+# r = requests.get(url)
 
-print(r.json())
+# print(r.json())
+
+# print('Hello World')
