@@ -2,12 +2,15 @@ name: test
 
 on:
   schedule:
-    - cron: '48 * * * *'
+    - cron: '*/2 * * * *'
   workflow_dispatch:
 
 jobs:
   test_job:
     runs-on: ubuntu-latest
     steps:
-      - name: first-step
-        run: pwd && ls
+      - uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+      - name: Run test schedule
+        run: python test_schedule.py
