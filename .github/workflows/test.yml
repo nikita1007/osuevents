@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: first-step
-        run: pwd
+        run: pwd && ls
