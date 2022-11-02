@@ -1,0 +1,13 @@
+name: test
+
+on:
+  schedule:
+    - cron: '46 * * * *'
+  workflow_dispatch:
+
+jobs:
+  test_job:
+    runs_on: ubuntu-latest
+    steps:
+      - name: first-step
+        run: pwd
