@@ -1,0 +1,829 @@
+{
+  "response": {
+    "count": 129838,
+    "items": [
+      {
+        "id": 1487093,
+        "from_id": -20629724,
+        "owner_id": -20629724,
+        "date": 1667220387,
+        "marked_as_ads": 0,
+        "is_favorite": false,
+        "post_type": "post",
+        "text": "В XVIII веке умным считали стол со встроенной чернильницей и многочисленными отделениями для перьев. Тридцать лет назад в умном столе были ящики для печатной бумаги и документов, укреплённая столешница для CRT-монитора.\n\nА что сегодня делает стол умным? Укрощение проводов. Показываем новое решение Tabula Sense, наделяющее стол умом, и уже доступное для предзаказа: http://amp.gs/jGFnG",
+        "is_pinned": 1,
+        "attachments": [
+          {
+            "type": "photo",
+            "photo": {
+              "album_id": -7,
+              "date": 1667220387,
+              "id": 457309665,
+              "owner_id": -20629724,
+              "access_key": "12100fd1f1a378f7a6",
+              "sizes": [
+                {
+                  "height": 130,
+                  "url": "https://sun1-99.userapi.com/impg/jcVX6wIT2ctWuHTuUazCBWB1nbH4s2dtW3TPSQ/aUs9-3eWIFg.jpg?size=130x130&quality=96&sign=656335bf857778553ea9e24549f5f47d&c_uniq_tag=_GZBhk_ayCuNPmB6xQBcI1m_4lIkbnnhVwKEZiNiEmw&type=album",
+                  "type": "m",
+                  "width": 130
+                },
+                {
+                  "height": 130,
+                  "url": "https://sun1-99.userapi.com/impg/jcVX6wIT2ctWuHTuUazCBWB1nbH4s2dtW3TPSQ/aUs9-3eWIFg.jpg?size=130x130&quality=96&sign=656335bf857778553ea9e24549f5f47d&c_uniq_tag=_GZBhk_ayCuNPmB6xQBcI1m_4lIkbnnhVwKEZiNiEmw&type=album",
+                  "type": "o",
+                  "width": 130
+                },
+                {
+                  "height": 200,
+                  "url": "https://sun1-99.userapi.com/impg/jcVX6wIT2ctWuHTuUazCBWB1nbH4s2dtW3TPSQ/aUs9-3eWIFg.jpg?size=200x200&quality=96&sign=4feaf4d5af4467075915897ae333b40f&c_uniq_tag=-rLwYrTQzgqt5nlMiX3PvYAX3ots2ZZPNJV4xJbg_QU&type=album",
+                  "type": "p",
+                  "width": 200
+                },
+                {
+                  "height": 320,
+                  "url": "https://sun1-99.userapi.com/impg/jcVX6wIT2ctWuHTuUazCBWB1nbH4s2dtW3TPSQ/aUs9-3eWIFg.jpg?size=320x320&quality=96&sign=96e63f8d6cf3c01fac32015185720f8e&c_uniq_tag=i66l5zCktXKOLsAwl2_a2k72o6d0qi7rR4ER7JjsOBE&type=album",
+                  "type": "q",
+                  "width": 320
+                },
+                {
+                  "height": 510,
+                  "url": "https://sun1-99.userapi.com/impg/jcVX6wIT2ctWuHTuUazCBWB1nbH4s2dtW3TPSQ/aUs9-3eWIFg.jpg?size=510x510&quality=96&sign=6171c5e29a848948d13031781f727206&c_uniq_tag=xZdtcKWfiQeRG139oKJLiQ9cSHUu7UTm5YisolxEXbs&type=album",
+                  "type": "r",
+                  "width": 510
+                },
+                {
+                  "height": 75,
+                  "url": "https://sun1-99.userapi.com/impg/jcVX6wIT2ctWuHTuUazCBWB1nbH4s2dtW3TPSQ/aUs9-3eWIFg.jpg?size=75x75&quality=96&sign=764f63b196640e410ed2b093fa3b22bb&c_uniq_tag=H04Halhs35OWzEDHUVEqO-maiQFMkO3SqApHG25cP2A&type=album",
+                  "type": "s",
+                  "width": 75
+                },
+                {
+                  "height": 1200,
+                  "url": "https://sun1-99.userapi.com/impg/jcVX6wIT2ctWuHTuUazCBWB1nbH4s2dtW3TPSQ/aUs9-3eWIFg.jpg?size=1200x1200&quality=96&sign=2e07c3ecc037713bf0ffa2a6932c1d4f&c_uniq_tag=cDm964C69AuzRXRJSOSBVnD28ZxEchsn02GiGWu2ZjU&type=album",
+                  "type": "w",
+                  "width": 1200
+                },
+                {
+                  "height": 604,
+                  "url": "https://sun1-99.userapi.com/impg/jcVX6wIT2ctWuHTuUazCBWB1nbH4s2dtW3TPSQ/aUs9-3eWIFg.jpg?size=604x604&quality=96&sign=dca051b501223ff4a8f4edf541200d18&c_uniq_tag=1K9soFXidtJdTVW5eRszQyTbWSN5Lo6KPHMDCpGRSbQ&type=album",
+                  "type": "x",
+                  "width": 604
+                },
+                {
+                  "height": 807,
+                  "url": "https://sun1-99.userapi.com/impg/jcVX6wIT2ctWuHTuUazCBWB1nbH4s2dtW3TPSQ/aUs9-3eWIFg.jpg?size=807x807&quality=96&sign=0b9d1671604d7079ac384bb7a9a6f727&c_uniq_tag=5gKDHtR449_boj7y5B72_GrZBTcuQRicdLpfIzKCjMc&type=album",
+                  "type": "y",
+                  "width": 807
+                },
+                {
+                  "height": 1200,
+                  "url": "https://sun1-99.userapi.com/impg/jcVX6wIT2ctWuHTuUazCBWB1nbH4s2dtW3TPSQ/aUs9-3eWIFg.jpg?size=1200x1200&quality=96&sign=2e07c3ecc037713bf0ffa2a6932c1d4f&c_uniq_tag=cDm964C69AuzRXRJSOSBVnD28ZxEchsn02GiGWu2ZjU&type=album",
+                  "type": "z",
+                  "width": 1200
+                }
+              ],
+              "text": "В XVIII веке умным считали стол со встроенной чернильницей и многочисленными отделениями для перьев. Тридцать лет назад в умном столе были ящики для печатной бумаги и документов, укреплённая столешница для CRT-монитора.\n\nА что сегодня делает стол умным? Укрощение проводов. Показываем новое решение Tabula Sense, наделяющее стол умом, и уже доступное для предзаказа: http://amp.gs/jGFnG",
+              "user_id": 100,
+              "has_tags": false
+            }
+          },
+          {
+            "type": "photo",
+            "photo": {
+              "album_id": -7,
+              "date": 1667220387,
+              "id": 457309666,
+              "owner_id": -20629724,
+              "access_key": "fb40ce5f5dc555f733",
+              "sizes": [
+                {
+                  "height": 130,
+                  "url": "https://sun1-29.userapi.com/impg/XPAZ_L30eaJXMUDZ-IohvmTrMEGlkTTRoFLONA/7jJtjfuqUyo.jpg?size=130x130&quality=96&sign=f774649349dffdd305c9028f5dd07d07&c_uniq_tag=VIt0ZyiR2KJFO-gx-GMfXGNAliE-0OG5qTbh-Wje9fY&type=album",
+                  "type": "m",
+                  "width": 130
+                },
+                {
+                  "height": 130,
+                  "url": "https://sun1-29.userapi.com/impg/XPAZ_L30eaJXMUDZ-IohvmTrMEGlkTTRoFLONA/7jJtjfuqUyo.jpg?size=130x130&quality=96&sign=f774649349dffdd305c9028f5dd07d07&c_uniq_tag=VIt0ZyiR2KJFO-gx-GMfXGNAliE-0OG5qTbh-Wje9fY&type=album",
+                  "type": "o",
+                  "width": 130
+                },
+                {
+                  "height": 200,
+                  "url": "https://sun1-29.userapi.com/impg/XPAZ_L30eaJXMUDZ-IohvmTrMEGlkTTRoFLONA/7jJtjfuqUyo.jpg?size=200x200&quality=96&sign=51a307fbdba7134767bed8bde92fb4a2&c_uniq_tag=oI5WXh7leGfroSJbMRw2Up1-HAosR44xa_Vx2kRBDVQ&type=album",
+                  "type": "p",
+                  "width": 200
+                },
+                {
+                  "height": 320,
+                  "url": "https://sun1-29.userapi.com/impg/XPAZ_L30eaJXMUDZ-IohvmTrMEGlkTTRoFLONA/7jJtjfuqUyo.jpg?size=320x320&quality=96&sign=9a82eabc14263619144aa8a5301be589&c_uniq_tag=8KkTcFmfhTcfqAmcyte1sTXpN5yYwwUHVPkfRgt2wf0&type=album",
+                  "type": "q",
+                  "width": 320
+                },
+                {
+                  "height": 510,
+                  "url": "https://sun1-29.userapi.com/impg/XPAZ_L30eaJXMUDZ-IohvmTrMEGlkTTRoFLONA/7jJtjfuqUyo.jpg?size=510x510&quality=96&sign=cd119871979254ecf359cd471e7657fe&c_uniq_tag=muj-X6iIGLhDvP9h0Cwe5I6ROA2AgbygnlCVCUtenGE&type=album",
+                  "type": "r",
+                  "width": 510
+                },
+                {
+                  "height": 75,
+                  "url": "https://sun1-29.userapi.com/impg/XPAZ_L30eaJXMUDZ-IohvmTrMEGlkTTRoFLONA/7jJtjfuqUyo.jpg?size=75x75&quality=96&sign=3f575380bda80ca389232df31e3daf8f&c_uniq_tag=dvvbbkLnJUnbxb40lS0qqYXowPcRo_P9qzTNi6GiLCY&type=album",
+                  "type": "s",
+                  "width": 75
+                },
+                {
+                  "height": 1200,
+                  "url": "https://sun1-29.userapi.com/impg/XPAZ_L30eaJXMUDZ-IohvmTrMEGlkTTRoFLONA/7jJtjfuqUyo.jpg?size=1200x1200&quality=96&sign=749dd6ac26dd3166726fa40a083c50cf&c_uniq_tag=Y5KOEVna3kwYWrKRrpMs2lH_xbdrl2vsXqQYruKGwFo&type=album",
+                  "type": "w",
+                  "width": 1200
+                },
+                {
+                  "height": 604,
+                  "url": "https://sun1-29.userapi.com/impg/XPAZ_L30eaJXMUDZ-IohvmTrMEGlkTTRoFLONA/7jJtjfuqUyo.jpg?size=604x604&quality=96&sign=ee964db8d7b3a9dd081cbe7bf58d3a93&c_uniq_tag=3IN9ayYa4fHrNxtCuM077Z_e2DwKljCkAWMlZT2qbfA&type=album",
+                  "type": "x",
+                  "width": 604
+                },
+                {
+                  "height": 807,
+                  "url": "https://sun1-29.userapi.com/impg/XPAZ_L30eaJXMUDZ-IohvmTrMEGlkTTRoFLONA/7jJtjfuqUyo.jpg?size=807x807&quality=96&sign=43ed60e030920f4e1cac12de67830a72&c_uniq_tag=imY8uQONfEHR75F83mWBe6U7b9ntNQATJG04-dPuDX0&type=album",
+                  "type": "y",
+                  "width": 807
+                },
+                {
+                  "height": 1200,
+                  "url": "https://sun1-29.userapi.com/impg/XPAZ_L30eaJXMUDZ-IohvmTrMEGlkTTRoFLONA/7jJtjfuqUyo.jpg?size=1200x1200&quality=96&sign=749dd6ac26dd3166726fa40a083c50cf&c_uniq_tag=Y5KOEVna3kwYWrKRrpMs2lH_xbdrl2vsXqQYruKGwFo&type=album",
+                  "type": "z",
+                  "width": 1200
+                }
+              ],
+              "text": "В XVIII веке умным считали стол со встроенной чернильницей и многочисленными отделениями для перьев. Тридцать лет назад в умном столе были ящики для печатной бумаги и документов, укреплённая столешница для CRT-монитора.\n\nА что сегодня делает стол умным? Укрощение проводов. Показываем новое решение Tabula Sense, наделяющее стол умом, и уже доступное для предзаказа: http://amp.gs/jGFnG",
+              "user_id": 100,
+              "has_tags": false
+            }
+          },
+          {
+            "type": "photo",
+            "photo": {
+              "album_id": -7,
+              "date": 1667220387,
+              "id": 457309667,
+              "owner_id": -20629724,
+              "access_key": "8165eb17603baf88e6",
+              "sizes": [
+                {
+                  "height": 130,
+                  "url": "https://sun1-98.userapi.com/impg/-6cnAsJOX7HNCnADNJSy9lXU9cIwDxz8YyD9YQ/YXe9PWtJ8eg.jpg?size=130x130&quality=96&sign=8faeb64b83d13402355e804970c6cba8&c_uniq_tag=PnaUvCnvuLJXw2_6bnEqzXkAwJXkJwZWBMC8X7bBrGk&type=album",
+                  "type": "m",
+                  "width": 130
+                },
+                {
+                  "height": 130,
+                  "url": "https://sun1-98.userapi.com/impg/-6cnAsJOX7HNCnADNJSy9lXU9cIwDxz8YyD9YQ/YXe9PWtJ8eg.jpg?size=130x130&quality=96&sign=8faeb64b83d13402355e804970c6cba8&c_uniq_tag=PnaUvCnvuLJXw2_6bnEqzXkAwJXkJwZWBMC8X7bBrGk&type=album",
+                  "type": "o",
+                  "width": 130
+                },
+                {
+                  "height": 200,
+                  "url": "https://sun1-98.userapi.com/impg/-6cnAsJOX7HNCnADNJSy9lXU9cIwDxz8YyD9YQ/YXe9PWtJ8eg.jpg?size=200x200&quality=96&sign=dd3acedefedf83d6c5279f86c7247250&c_uniq_tag=4bQMlSjHbIKpCI1BmdBHnVBeWt5EUuL7yoJZBoht9PY&type=album",
+                  "type": "p",
+                  "width": 200
+                },
+                {
+                  "height": 320,
+                  "url": "https://sun1-98.userapi.com/impg/-6cnAsJOX7HNCnADNJSy9lXU9cIwDxz8YyD9YQ/YXe9PWtJ8eg.jpg?size=320x320&quality=96&sign=4c41feafaf897412f2f872e358322d21&c_uniq_tag=ZHvGt3TmpffRjMatmjT3Hd9mEW2tHpKd4qYsgqa2h-A&type=album",
+                  "type": "q",
+                  "width": 320
+                },
+                {
+                  "height": 510,
+                  "url": "https://sun1-98.userapi.com/impg/-6cnAsJOX7HNCnADNJSy9lXU9cIwDxz8YyD9YQ/YXe9PWtJ8eg.jpg?size=510x510&quality=96&sign=968f848ab1deb6c4d075c559b2dc32fe&c_uniq_tag=Xs70P2ia8keY76jcG4d9-46wXCVKNrxn0Aeo85d_PVg&type=album",
+                  "type": "r",
+                  "width": 510
+                },
+                {
+                  "height": 75,
+                  "url": "https://sun1-98.userapi.com/impg/-6cnAsJOX7HNCnADNJSy9lXU9cIwDxz8YyD9YQ/YXe9PWtJ8eg.jpg?size=75x75&quality=96&sign=d41d96d4e21bd8d08ba0b4802c5e7f50&c_uniq_tag=og_zQEUYTY2XaeeI6o0KCPfhf19DKvilzCFpHUq7DX4&type=album",
+                  "type": "s",
+                  "width": 75
+                },
+                {
+                  "height": 1200,
+                  "url": "https://sun1-98.userapi.com/impg/-6cnAsJOX7HNCnADNJSy9lXU9cIwDxz8YyD9YQ/YXe9PWtJ8eg.jpg?size=1200x1200&quality=96&sign=c40de10624ef01de057245aeac996c5c&c_uniq_tag=08hGX3ywXEGkG5xnl2WgLvDmPNPe4f6ju_3_NRp5n4Q&type=album",
+                  "type": "w",
+                  "width": 1200
+                },
+                {
+                  "height": 604,
+                  "url": "https://sun1-98.userapi.com/impg/-6cnAsJOX7HNCnADNJSy9lXU9cIwDxz8YyD9YQ/YXe9PWtJ8eg.jpg?size=604x604&quality=96&sign=63f59f34094ad15e42986694231c0ae3&c_uniq_tag=PgMkYZMvfJfLcLFc_eVJjtC2vEXNT-5cYbrKWyPa7hw&type=album",
+                  "type": "x",
+                  "width": 604
+                },
+                {
+                  "height": 807,
+                  "url": "https://sun1-98.userapi.com/impg/-6cnAsJOX7HNCnADNJSy9lXU9cIwDxz8YyD9YQ/YXe9PWtJ8eg.jpg?size=807x807&quality=96&sign=30ec0af2391cf62f508aa34d51bc9187&c_uniq_tag=yRhMabbBJ4-YnNoA7gx_SNPpjvZV7L4DTKPYDleaHvA&type=album",
+                  "type": "y",
+                  "width": 807
+                },
+                {
+                  "height": 1200,
+                  "url": "https://sun1-98.userapi.com/impg/-6cnAsJOX7HNCnADNJSy9lXU9cIwDxz8YyD9YQ/YXe9PWtJ8eg.jpg?size=1200x1200&quality=96&sign=c40de10624ef01de057245aeac996c5c&c_uniq_tag=08hGX3ywXEGkG5xnl2WgLvDmPNPe4f6ju_3_NRp5n4Q&type=album",
+                  "type": "z",
+                  "width": 1200
+                }
+              ],
+              "text": "В XVIII веке умным считали стол со встроенной чернильницей и многочисленными отделениями для перьев. Тридцать лет назад в умном столе были ящики для печатной бумаги и документов, укреплённая столешница для CRT-монитора.\n\nА что сегодня делает стол умным? Укрощение проводов. Показываем новое решение Tabula Sense, наделяющее стол умом, и уже доступное для предзаказа: http://amp.gs/jGFnG",
+              "user_id": 100,
+              "has_tags": false
+            }
+          },
+          {
+            "type": "photo",
+            "photo": {
+              "album_id": -7,
+              "date": 1667220387,
+              "id": 457309668,
+              "owner_id": -20629724,
+              "access_key": "0bcbe7856439d6a20c",
+              "sizes": [
+                {
+                  "height": 130,
+                  "url": "https://sun1-55.userapi.com/impg/wQrc6n6UY3ytPb4jbH1JTdfO7u090CF4XbzLVg/H_cM4bKSoqg.jpg?size=130x130&quality=96&sign=e9b7e44ec2d089e8b59da02d879092fc&c_uniq_tag=kEwECCLQlNqZ2c_Mr6Wik3FniGchyYwmtwZzYzcRkkE&type=album",
+                  "type": "m",
+                  "width": 130
+                },
+                {
+                  "height": 130,
+                  "url": "https://sun1-55.userapi.com/impg/wQrc6n6UY3ytPb4jbH1JTdfO7u090CF4XbzLVg/H_cM4bKSoqg.jpg?size=130x130&quality=96&sign=e9b7e44ec2d089e8b59da02d879092fc&c_uniq_tag=kEwECCLQlNqZ2c_Mr6Wik3FniGchyYwmtwZzYzcRkkE&type=album",
+                  "type": "o",
+                  "width": 130
+                },
+                {
+                  "height": 200,
+                  "url": "https://sun1-55.userapi.com/impg/wQrc6n6UY3ytPb4jbH1JTdfO7u090CF4XbzLVg/H_cM4bKSoqg.jpg?size=200x200&quality=96&sign=85273a1fb80058ad48d2763139652e0d&c_uniq_tag=LZZpsyoSqSf04nqz-i4ovLKOoLaWV_F8B4fcBWbEUL0&type=album",
+                  "type": "p",
+                  "width": 200
+                },
+                {
+                  "height": 320,
+                  "url": "https://sun1-55.userapi.com/impg/wQrc6n6UY3ytPb4jbH1JTdfO7u090CF4XbzLVg/H_cM4bKSoqg.jpg?size=320x320&quality=96&sign=4ea3a6a52bce25a5a594638e13bd5b0b&c_uniq_tag=XGjKAWdTEraVmXRpO6aPfyCjefEMbalyVL87WqqyPk0&type=album",
+                  "type": "q",
+                  "width": 320
+                },
+                {
+                  "height": 510,
+                  "url": "https://sun1-55.userapi.com/impg/wQrc6n6UY3ytPb4jbH1JTdfO7u090CF4XbzLVg/H_cM4bKSoqg.jpg?size=510x510&quality=96&sign=8dbae6e749e9742d43194b6318c5f24c&c_uniq_tag=JiMo_r7egbWqtrB2ERg1hgGIwCJxnX4kAJFyHu7Cn9Y&type=album",
+                  "type": "r",
+                  "width": 510
+                },
+                {
+                  "height": 75,
+                  "url": "https://sun1-55.userapi.com/impg/wQrc6n6UY3ytPb4jbH1JTdfO7u090CF4XbzLVg/H_cM4bKSoqg.jpg?size=75x75&quality=96&sign=68f7dea124796ac3a4a62862e1cba98b&c_uniq_tag=ETKLp_Iu0I7c-kYYucONkU_xMe4mvaqKHnW6TPL8RK4&type=album",
+                  "type": "s",
+                  "width": 75
+                },
+                {
+                  "height": 1200,
+                  "url": "https://sun1-55.userapi.com/impg/wQrc6n6UY3ytPb4jbH1JTdfO7u090CF4XbzLVg/H_cM4bKSoqg.jpg?size=1200x1200&quality=96&sign=c4a21ee8da9f93bde23ab67dce826f45&c_uniq_tag=9haawG9lNfeVfpev1lgSsyfGEra7yYy6KT88CzSQHFE&type=album",
+                  "type": "w",
+                  "width": 1200
+                },
+                {
+                  "height": 604,
+                  "url": "https://sun1-55.userapi.com/impg/wQrc6n6UY3ytPb4jbH1JTdfO7u090CF4XbzLVg/H_cM4bKSoqg.jpg?size=604x604&quality=96&sign=03f2778c57c0f50cf168a7c3d0e18887&c_uniq_tag=Zm0Q48CwqIxj65XRt47ClI0Mcn3R-y6JSG0yRcFR_i4&type=album",
+                  "type": "x",
+                  "width": 604
+                },
+                {
+                  "height": 807,
+                  "url": "https://sun1-55.userapi.com/impg/wQrc6n6UY3ytPb4jbH1JTdfO7u090CF4XbzLVg/H_cM4bKSoqg.jpg?size=807x807&quality=96&sign=ddf3190eefd5a6ac91febcb080f17d80&c_uniq_tag=Y1_LNKDr2Y-BsyX7wfJ45OA8JlmxDaDwovQjM4kOaMk&type=album",
+                  "type": "y",
+                  "width": 807
+                },
+                {
+                  "height": 1200,
+                  "url": "https://sun1-55.userapi.com/impg/wQrc6n6UY3ytPb4jbH1JTdfO7u090CF4XbzLVg/H_cM4bKSoqg.jpg?size=1200x1200&quality=96&sign=c4a21ee8da9f93bde23ab67dce826f45&c_uniq_tag=9haawG9lNfeVfpev1lgSsyfGEra7yYy6KT88CzSQHFE&type=album",
+                  "type": "z",
+                  "width": 1200
+                }
+              ],
+              "text": "В XVIII веке умным считали стол со встроенной чернильницей и многочисленными отделениями для перьев. Тридцать лет назад в умном столе были ящики для печатной бумаги и документов, укреплённая столешница для CRT-монитора.\n\nА что сегодня делает стол умным? Укрощение проводов. Показываем новое решение Tabula Sense, наделяющее стол умом, и уже доступное для предзаказа: http://amp.gs/jGFnG",
+              "user_id": 100,
+              "has_tags": false
+            }
+          },
+          {
+            "type": "photo",
+            "photo": {
+              "album_id": -7,
+              "date": 1667220387,
+              "id": 457309669,
+              "owner_id": -20629724,
+              "access_key": "11d1a97deddd438fd4",
+              "sizes": [
+                {
+                  "height": 130,
+                  "url": "https://sun1-96.userapi.com/impg/s1RYt3XGdBdxHbWjCqbqb0IZl_u16OHk3NXnaw/7VCYtmf5ZRg.jpg?size=130x130&quality=96&sign=41d537273b23a86de68f9861d3589b1b&c_uniq_tag=I9C4ftGe9x6o7cSh2sBg3JyDns1IhUFDL_8bLLh8DzY&type=album",
+                  "type": "m",
+                  "width": 130
+                },
+                {
+                  "height": 130,
+                  "url": "https://sun1-96.userapi.com/impg/s1RYt3XGdBdxHbWjCqbqb0IZl_u16OHk3NXnaw/7VCYtmf5ZRg.jpg?size=130x130&quality=96&sign=41d537273b23a86de68f9861d3589b1b&c_uniq_tag=I9C4ftGe9x6o7cSh2sBg3JyDns1IhUFDL_8bLLh8DzY&type=album",
+                  "type": "o",
+                  "width": 130
+                },
+                {
+                  "height": 200,
+                  "url": "https://sun1-96.userapi.com/impg/s1RYt3XGdBdxHbWjCqbqb0IZl_u16OHk3NXnaw/7VCYtmf5ZRg.jpg?size=200x200&quality=96&sign=1e69e74ca7da407f0b8ceffe70b6c286&c_uniq_tag=QTJ76T3ZFqSgRWhmHH9Rn0OO3PhkS9m5vFjvRrKH-ag&type=album",
+                  "type": "p",
+                  "width": 200
+                },
+                {
+                  "height": 320,
+                  "url": "https://sun1-96.userapi.com/impg/s1RYt3XGdBdxHbWjCqbqb0IZl_u16OHk3NXnaw/7VCYtmf5ZRg.jpg?size=320x320&quality=96&sign=f181b9043f27fc949e33d9553c0f90f9&c_uniq_tag=SYnlNwZMGyg5_sZfx7mu4G_ipLvq9wy9_gpSe5jXsTY&type=album",
+                  "type": "q",
+                  "width": 320
+                },
+                {
+                  "height": 510,
+                  "url": "https://sun1-96.userapi.com/impg/s1RYt3XGdBdxHbWjCqbqb0IZl_u16OHk3NXnaw/7VCYtmf5ZRg.jpg?size=510x510&quality=96&sign=a55181fc182ab09510d871a60e07f0f1&c_uniq_tag=rpSZryVCpta8W7AYKkDadNjucjQJuHZ37ttegQHbOn8&type=album",
+                  "type": "r",
+                  "width": 510
+                },
+                {
+                  "height": 75,
+                  "url": "https://sun1-96.userapi.com/impg/s1RYt3XGdBdxHbWjCqbqb0IZl_u16OHk3NXnaw/7VCYtmf5ZRg.jpg?size=75x75&quality=96&sign=12ec7236f68f2577f0eaa783bf77c7dd&c_uniq_tag=H7jX7tAc9gGW2FMkUWB9-dX4ZxFcc1Jn-5lkrPpIizQ&type=album",
+                  "type": "s",
+                  "width": 75
+                },
+                {
+                  "height": 1200,
+                  "url": "https://sun1-96.userapi.com/impg/s1RYt3XGdBdxHbWjCqbqb0IZl_u16OHk3NXnaw/7VCYtmf5ZRg.jpg?size=1200x1200&quality=96&sign=e97bb1dfae28c1cf7b06d4387c2bded3&c_uniq_tag=0JuNnBRJXY4S6RWUh2ITf4-frkkFzGqRLjM77aWjfi4&type=album",
+                  "type": "w",
+                  "width": 1200
+                },
+                {
+                  "height": 604,
+                  "url": "https://sun1-96.userapi.com/impg/s1RYt3XGdBdxHbWjCqbqb0IZl_u16OHk3NXnaw/7VCYtmf5ZRg.jpg?size=604x604&quality=96&sign=4c332637df41460ebdac80b0703ce8a3&c_uniq_tag=6-IiMQ_QoFZzj22LbiZyq6MXMOQ2OC8ggpNOCG5elag&type=album",
+                  "type": "x",
+                  "width": 604
+                },
+                {
+                  "height": 807,
+                  "url": "https://sun1-96.userapi.com/impg/s1RYt3XGdBdxHbWjCqbqb0IZl_u16OHk3NXnaw/7VCYtmf5ZRg.jpg?size=807x807&quality=96&sign=95fe540a668a65b97921bc0c146b081c&c_uniq_tag=Y-LrlEpQ6LZjlHnWpDYkpBxJI6K49BdWmqwuMg-AhZk&type=album",
+                  "type": "y",
+                  "width": 807
+                },
+                {
+                  "height": 1200,
+                  "url": "https://sun1-96.userapi.com/impg/s1RYt3XGdBdxHbWjCqbqb0IZl_u16OHk3NXnaw/7VCYtmf5ZRg.jpg?size=1200x1200&quality=96&sign=e97bb1dfae28c1cf7b06d4387c2bded3&c_uniq_tag=0JuNnBRJXY4S6RWUh2ITf4-frkkFzGqRLjM77aWjfi4&type=album",
+                  "type": "z",
+                  "width": 1200
+                }
+              ],
+              "text": "В XVIII веке умным считали стол со встроенной чернильницей и многочисленными отделениями для перьев. Тридцать лет назад в умном столе были ящики для печатной бумаги и документов, укреплённая столешница для CRT-монитора.\n\nА что сегодня делает стол умным? Укрощение проводов. Показываем новое решение Tabula Sense, наделяющее стол умом, и уже доступное для предзаказа: http://amp.gs/jGFnG",
+              "user_id": 100,
+              "has_tags": false
+            }
+          },
+          {
+            "type": "photo",
+            "photo": {
+              "album_id": -7,
+              "date": 1667220387,
+              "id": 457309670,
+              "owner_id": -20629724,
+              "access_key": "2c9ca09817de635223",
+              "sizes": [
+                {
+                  "height": 130,
+                  "url": "https://sun1-99.userapi.com/impg/2wweNHhI6nxcmPnWEeQQsDyyCtLXGTJmYUZldw/tDxwajMJteA.jpg?size=130x130&quality=96&sign=dd539802af98e0ddfc6b10be850c110e&c_uniq_tag=8xqRD7W-hvYwXBrAFFvmbQW1hQvsgLH7Pd3E9y7CO9o&type=album",
+                  "type": "m",
+                  "width": 130
+                },
+                {
+                  "height": 130,
+                  "url": "https://sun1-99.userapi.com/impg/2wweNHhI6nxcmPnWEeQQsDyyCtLXGTJmYUZldw/tDxwajMJteA.jpg?size=130x130&quality=96&sign=dd539802af98e0ddfc6b10be850c110e&c_uniq_tag=8xqRD7W-hvYwXBrAFFvmbQW1hQvsgLH7Pd3E9y7CO9o&type=album",
+                  "type": "o",
+                  "width": 130
+                },
+                {
+                  "height": 200,
+                  "url": "https://sun1-99.userapi.com/impg/2wweNHhI6nxcmPnWEeQQsDyyCtLXGTJmYUZldw/tDxwajMJteA.jpg?size=200x200&quality=96&sign=917d797f46c61e8ea5a0ed3382954a4b&c_uniq_tag=W3DSzKTkJoo5YwrWUO5AoraiABViFSt93F22AQY0lw8&type=album",
+                  "type": "p",
+                  "width": 200
+                },
+                {
+                  "height": 320,
+                  "url": "https://sun1-99.userapi.com/impg/2wweNHhI6nxcmPnWEeQQsDyyCtLXGTJmYUZldw/tDxwajMJteA.jpg?size=320x320&quality=96&sign=2873dce695e89b16552903bc38b89c80&c_uniq_tag=m03yT6266oYeBE4JYhkn8Xkf7Wyv6NrT9LYiHMWn4d8&type=album",
+                  "type": "q",
+                  "width": 320
+                },
+                {
+                  "height": 510,
+                  "url": "https://sun1-99.userapi.com/impg/2wweNHhI6nxcmPnWEeQQsDyyCtLXGTJmYUZldw/tDxwajMJteA.jpg?size=510x510&quality=96&sign=8401e8f4ea17f908c298c29cf8a63a32&c_uniq_tag=XhXD3ApuZoSZj_m95JXkD8xnL855LIJ2j47dcnllS6w&type=album",
+                  "type": "r",
+                  "width": 510
+                },
+                {
+                  "height": 75,
+                  "url": "https://sun1-99.userapi.com/impg/2wweNHhI6nxcmPnWEeQQsDyyCtLXGTJmYUZldw/tDxwajMJteA.jpg?size=75x75&quality=96&sign=2bd805ff217dfa7db54d2a11536e2a90&c_uniq_tag=gc5IwlWwo7RHO1kvv2pswNSF2KTAg69ZJLWX5ma6CvU&type=album",
+                  "type": "s",
+                  "width": 75
+                },
+                {
+                  "height": 1200,
+                  "url": "https://sun1-99.userapi.com/impg/2wweNHhI6nxcmPnWEeQQsDyyCtLXGTJmYUZldw/tDxwajMJteA.jpg?size=1200x1200&quality=96&sign=b070c43a646260d46242666f215d3225&c_uniq_tag=yggoVeVGGZlXqGIKIJAPYd6e7_LRb-FHWV9zI7I5vZ8&type=album",
+                  "type": "w",
+                  "width": 1200
+                },
+                {
+                  "height": 604,
+                  "url": "https://sun1-99.userapi.com/impg/2wweNHhI6nxcmPnWEeQQsDyyCtLXGTJmYUZldw/tDxwajMJteA.jpg?size=604x604&quality=96&sign=f0a19e2e1d6884998a7abf909645c850&c_uniq_tag=pWydsPrme_SGFc2L8OuWNSfaLQtDuN2DIvc3H59KGDM&type=album",
+                  "type": "x",
+                  "width": 604
+                },
+                {
+                  "height": 807,
+                  "url": "https://sun1-99.userapi.com/impg/2wweNHhI6nxcmPnWEeQQsDyyCtLXGTJmYUZldw/tDxwajMJteA.jpg?size=807x807&quality=96&sign=643f5215f7275aa2b7a75d544b1d4860&c_uniq_tag=14E_0FQ_0tPMpIol_2lC8obGIQbyNppljiawf5bAJJ8&type=album",
+                  "type": "y",
+                  "width": 807
+                },
+                {
+                  "height": 1200,
+                  "url": "https://sun1-99.userapi.com/impg/2wweNHhI6nxcmPnWEeQQsDyyCtLXGTJmYUZldw/tDxwajMJteA.jpg?size=1200x1200&quality=96&sign=b070c43a646260d46242666f215d3225&c_uniq_tag=yggoVeVGGZlXqGIKIJAPYd6e7_LRb-FHWV9zI7I5vZ8&type=album",
+                  "type": "z",
+                  "width": 1200
+                }
+              ],
+              "text": "В XVIII веке умным считали стол со встроенной чернильницей и многочисленными отделениями для перьев. Тридцать лет назад в умном столе были ящики для печатной бумаги и документов, укреплённая столешница для CRT-монитора.\n\nА что сегодня делает стол умным? Укрощение проводов. Показываем новое решение Tabula Sense, наделяющее стол умом, и уже доступное для предзаказа: http://amp.gs/jGFnG",
+              "user_id": 100,
+              "has_tags": false
+            }
+          },
+          {
+            "type": "photo",
+            "photo": {
+              "album_id": -7,
+              "date": 1667220387,
+              "id": 457309671,
+              "owner_id": -20629724,
+              "access_key": "5752a94bc95792bc32",
+              "sizes": [
+                {
+                  "height": 130,
+                  "url": "https://sun1-20.userapi.com/impg/ad2-wnH7rebPXsK4J2SYuzZreYvLbBouNdNSRQ/Ze-gpGRZD90.jpg?size=130x130&quality=96&sign=10b032d253bf89e210354f00ae0dec29&c_uniq_tag=tO0YSLqtRVr8OXKGS__tJNkdbrWjAR1mjEbSMa0HCK8&type=album",
+                  "type": "m",
+                  "width": 130
+                },
+                {
+                  "height": 130,
+                  "url": "https://sun1-20.userapi.com/impg/ad2-wnH7rebPXsK4J2SYuzZreYvLbBouNdNSRQ/Ze-gpGRZD90.jpg?size=130x130&quality=96&sign=10b032d253bf89e210354f00ae0dec29&c_uniq_tag=tO0YSLqtRVr8OXKGS__tJNkdbrWjAR1mjEbSMa0HCK8&type=album",
+                  "type": "o",
+                  "width": 130
+                },
+                {
+                  "height": 200,
+                  "url": "https://sun1-20.userapi.com/impg/ad2-wnH7rebPXsK4J2SYuzZreYvLbBouNdNSRQ/Ze-gpGRZD90.jpg?size=200x200&quality=96&sign=78e77ef0e94fbfa83b2ad3f22a7e9e0d&c_uniq_tag=qrlgcqopUxQFR9XuLuB1WBYG1R7A9Xj40E-QMy31y5U&type=album",
+                  "type": "p",
+                  "width": 200
+                },
+                {
+                  "height": 320,
+                  "url": "https://sun1-20.userapi.com/impg/ad2-wnH7rebPXsK4J2SYuzZreYvLbBouNdNSRQ/Ze-gpGRZD90.jpg?size=320x320&quality=96&sign=1828709ae99c6f72353cc3e99d7ce595&c_uniq_tag=PG-Q2JV6X6wcYWaFu8IR_7trCEAabXvG9qX9g5cHxmI&type=album",
+                  "type": "q",
+                  "width": 320
+                },
+                {
+                  "height": 510,
+                  "url": "https://sun1-20.userapi.com/impg/ad2-wnH7rebPXsK4J2SYuzZreYvLbBouNdNSRQ/Ze-gpGRZD90.jpg?size=510x510&quality=96&sign=ea7552567895c049b5fed96672339ae2&c_uniq_tag=qg5oyTYM0iAFCb1LBPhkCCTN2ty3T2YCPjj3FOXF8gU&type=album",
+                  "type": "r",
+                  "width": 510
+                },
+                {
+                  "height": 75,
+                  "url": "https://sun1-20.userapi.com/impg/ad2-wnH7rebPXsK4J2SYuzZreYvLbBouNdNSRQ/Ze-gpGRZD90.jpg?size=75x75&quality=96&sign=b623c59032312925a74c743fe182e61b&c_uniq_tag=O69bzdkjcqyWc5ImRhv6hl2rNYHXxvW7DgJv_rMC9EI&type=album",
+                  "type": "s",
+                  "width": 75
+                },
+                {
+                  "height": 1200,
+                  "url": "https://sun1-20.userapi.com/impg/ad2-wnH7rebPXsK4J2SYuzZreYvLbBouNdNSRQ/Ze-gpGRZD90.jpg?size=1200x1200&quality=96&sign=ca0ae9c858ced32c1f36d729623fd10c&c_uniq_tag=A7DaiEkPqfdfHb-Njhsbw1ckqHXWDsajs5p_pWl2Se8&type=album",
+                  "type": "w",
+                  "width": 1200
+                },
+                {
+                  "height": 604,
+                  "url": "https://sun1-20.userapi.com/impg/ad2-wnH7rebPXsK4J2SYuzZreYvLbBouNdNSRQ/Ze-gpGRZD90.jpg?size=604x604&quality=96&sign=c4305924fef5915e8ff666ee6ca0e592&c_uniq_tag=2ge7rQa-lOEF7Mcdrd0VwP0ZV-UvObXxvKAbR0qz9tI&type=album",
+                  "type": "x",
+                  "width": 604
+                },
+                {
+                  "height": 807,
+                  "url": "https://sun1-20.userapi.com/impg/ad2-wnH7rebPXsK4J2SYuzZreYvLbBouNdNSRQ/Ze-gpGRZD90.jpg?size=807x807&quality=96&sign=21e80ebdcae7e6722e90c30647841535&c_uniq_tag=jt1BdolZjEubc87HY_DKym2K2bRfzD3BJop5Gwa13jM&type=album",
+                  "type": "y",
+                  "width": 807
+                },
+                {
+                  "height": 1200,
+                  "url": "https://sun1-20.userapi.com/impg/ad2-wnH7rebPXsK4J2SYuzZreYvLbBouNdNSRQ/Ze-gpGRZD90.jpg?size=1200x1200&quality=96&sign=ca0ae9c858ced32c1f36d729623fd10c&c_uniq_tag=A7DaiEkPqfdfHb-Njhsbw1ckqHXWDsajs5p_pWl2Se8&type=album",
+                  "type": "z",
+                  "width": 1200
+                }
+              ],
+              "text": "В XVIII веке умным считали стол со встроенной чернильницей и многочисленными отделениями для перьев. Тридцать лет назад в умном столе были ящики для печатной бумаги и документов, укреплённая столешница для CRT-монитора.\n\nА что сегодня делает стол умным? Укрощение проводов. Показываем новое решение Tabula Sense, наделяющее стол умом, и уже доступное для предзаказа: http://amp.gs/jGFnG",
+              "user_id": 100,
+              "has_tags": false
+            }
+          },
+          {
+            "type": "photo",
+            "photo": {
+              "album_id": -7,
+              "date": 1667220387,
+              "id": 457309672,
+              "owner_id": -20629724,
+              "access_key": "5d87738b49929cf681",
+              "sizes": [
+                {
+                  "height": 130,
+                  "url": "https://sun1-29.userapi.com/impg/gaYmKtas5p2llhaUxGw9YZizNmSjQ-rFDXA-vg/fRqiBdjDO6Y.jpg?size=130x130&quality=96&sign=e7273b450ce0d4682dd889de56553eba&c_uniq_tag=zhl8xCzULP1hLqErxHOjSYxuFkzNmc8_fqG-XZYSWWc&type=album",
+                  "type": "m",
+                  "width": 130
+                },
+                {
+                  "height": 130,
+                  "url": "https://sun1-29.userapi.com/impg/gaYmKtas5p2llhaUxGw9YZizNmSjQ-rFDXA-vg/fRqiBdjDO6Y.jpg?size=130x130&quality=96&sign=e7273b450ce0d4682dd889de56553eba&c_uniq_tag=zhl8xCzULP1hLqErxHOjSYxuFkzNmc8_fqG-XZYSWWc&type=album",
+                  "type": "o",
+                  "width": 130
+                },
+                {
+                  "height": 200,
+                  "url": "https://sun1-29.userapi.com/impg/gaYmKtas5p2llhaUxGw9YZizNmSjQ-rFDXA-vg/fRqiBdjDO6Y.jpg?size=200x200&quality=96&sign=867d9dfdb74c17c2878e84cdf2e8a036&c_uniq_tag=i0TD66wJRsQUzjUh9fNQLuzPosC8RsDAhtCzhwrV0dk&type=album",
+                  "type": "p",
+                  "width": 200
+                },
+                {
+                  "height": 320,
+                  "url": "https://sun1-29.userapi.com/impg/gaYmKtas5p2llhaUxGw9YZizNmSjQ-rFDXA-vg/fRqiBdjDO6Y.jpg?size=320x320&quality=96&sign=441dde5087bd97678d428bf65d941956&c_uniq_tag=kuZIojQuoZ1QbOniE0gqFoD7ABVraMfGWJDZylC5zOA&type=album",
+                  "type": "q",
+                  "width": 320
+                },
+                {
+                  "height": 510,
+                  "url": "https://sun1-29.userapi.com/impg/gaYmKtas5p2llhaUxGw9YZizNmSjQ-rFDXA-vg/fRqiBdjDO6Y.jpg?size=510x510&quality=96&sign=ac4c1b0c1175d69cee4ede754e82503b&c_uniq_tag=yPW41UfeXXTSLktsnn8TxMxj-1QuJeGs5py9TaXRRO8&type=album",
+                  "type": "r",
+                  "width": 510
+                },
+                {
+                  "height": 75,
+                  "url": "https://sun1-29.userapi.com/impg/gaYmKtas5p2llhaUxGw9YZizNmSjQ-rFDXA-vg/fRqiBdjDO6Y.jpg?size=75x75&quality=96&sign=64eb3542d8dfd5899927c24922ff8cf3&c_uniq_tag=Ek0tE-tqBVxWx-hqAwHB_tbnDCSsn0boikfBZi1bJHQ&type=album",
+                  "type": "s",
+                  "width": 75
+                },
+                {
+                  "height": 1200,
+                  "url": "https://sun1-29.userapi.com/impg/gaYmKtas5p2llhaUxGw9YZizNmSjQ-rFDXA-vg/fRqiBdjDO6Y.jpg?size=1200x1200&quality=96&sign=aa7e6799499526c6fd92eccf63426099&c_uniq_tag=EvHK4p8Fynbkwcq94zN335eQbY86Lz0rSecQjppc3no&type=album",
+                  "type": "w",
+                  "width": 1200
+                },
+                {
+                  "height": 604,
+                  "url": "https://sun1-29.userapi.com/impg/gaYmKtas5p2llhaUxGw9YZizNmSjQ-rFDXA-vg/fRqiBdjDO6Y.jpg?size=604x604&quality=96&sign=4b36da9804d3ba2ad1af3e5ec7472d5d&c_uniq_tag=XcSDHC1B5NR2xkVC_f8tgNHGDSzWWj6wBr_-xctXeVs&type=album",
+                  "type": "x",
+                  "width": 604
+                },
+                {
+                  "height": 807,
+                  "url": "https://sun1-29.userapi.com/impg/gaYmKtas5p2llhaUxGw9YZizNmSjQ-rFDXA-vg/fRqiBdjDO6Y.jpg?size=807x807&quality=96&sign=665e23b14d308f2144b46c046653d4ee&c_uniq_tag=eQ1RrCCMhK-s5txnOu2McrBpdvZeTPmmGasiH4tSsS0&type=album",
+                  "type": "y",
+                  "width": 807
+                },
+                {
+                  "height": 1200,
+                  "url": "https://sun1-29.userapi.com/impg/gaYmKtas5p2llhaUxGw9YZizNmSjQ-rFDXA-vg/fRqiBdjDO6Y.jpg?size=1200x1200&quality=96&sign=aa7e6799499526c6fd92eccf63426099&c_uniq_tag=EvHK4p8Fynbkwcq94zN335eQbY86Lz0rSecQjppc3no&type=album",
+                  "type": "z",
+                  "width": 1200
+                }
+              ],
+              "text": "В XVIII веке умным считали стол со встроенной чернильницей и многочисленными отделениями для перьев. Тридцать лет назад в умном столе были ящики для печатной бумаги и документов, укреплённая столешница для CRT-монитора.\n\nА что сегодня делает стол умным? Укрощение проводов. Показываем новое решение Tabula Sense, наделяющее стол умом, и уже доступное для предзаказа: http://amp.gs/jGFnG",
+              "user_id": 100,
+              "has_tags": false
+            }
+          }
+        ],
+        "post_source": { "type": "api" },
+        "comments": { "can_post": 1, "count": 9, "groups_can_post": true },
+        "likes": {
+          "can_like": 1,
+          "count": 59,
+          "user_likes": 0,
+          "can_publish": 1
+        },
+        "reposts": { "count": 45, "user_reposted": 0 },
+        "views": { "count": 42668 },
+        "donut": { "is_donut": false },
+        "short_text_rate": 0.8,
+        "carousel_offset": 0,
+        "hash": "cm3aOPOuUCRGU0oSdIXwb2tsrXdv"
+      },
+      {
+        "id": 1487754,
+        "from_id": -20629724,
+        "owner_id": -20629724,
+        "date": 1667415600,
+        "marked_as_ads": 0,
+        "is_favorite": false,
+        "post_type": "post",
+        "text": "Среди всех фундаментальных сил, известных человечеству, гравитация является самой знакомой. Мы ощущаем её постоянно. Но одновременно она удерживает всю Вселенную, соединяя далёкие галактики в обширную космическую сеть, части которой влияют друг на друга. Отсюда возникает вопрос: имеет ли гравитация скорость? И если да, то какую? И можем ли мы как-то её измерить?\n\n#постдня@habr",
+        "attachments": [
+          {
+            "type": "link",
+            "link": {
+              "url": "https://m.vk.com/@habr-naskolko-bystro-na-samom-dele-deistvuet-gravitaciya",
+              "title": "Насколько быстро на самом деле действует гравитация?",
+              "caption": "m.vk.com",
+              "description": "Статья",
+              "photo": {
+                "album_id": -66,
+                "date": 1667377266,
+                "id": 457309738,
+                "owner_id": -20629724,
+                "sizes": [
+                  {
+                    "height": 47,
+                    "url": "https://sun1-55.userapi.com/impg/mhf8naNF4OrNhecQF0fZMgPW9onI0npRVg2Mmw/eT6ERxIaOcc.jpg?size=75x47&quality=95&sign=4e89e80275fbe1405445105192de587a&c_uniq_tag=U2Y-jJOoQbkACcsFXOncKhpqurmXt7ipUdFvs4sYW_c&type=album",
+                    "type": "s",
+                    "width": 75
+                  },
+                  {
+                    "height": 82,
+                    "url": "https://sun1-55.userapi.com/impg/mhf8naNF4OrNhecQF0fZMgPW9onI0npRVg2Mmw/eT6ERxIaOcc.jpg?size=130x82&quality=95&sign=972b063d4228aecdbbd280692327a396&c_uniq_tag=yecYPh-mmfmDNSj73shE7oFWZQ9CHC9sIfg0fwdJl0o&type=album",
+                    "type": "m",
+                    "width": 130
+                  },
+                  {
+                    "height": 379,
+                    "url": "https://sun1-55.userapi.com/impg/mhf8naNF4OrNhecQF0fZMgPW9onI0npRVg2Mmw/eT6ERxIaOcc.jpg?size=604x379&quality=95&sign=608b71436438d4ef1af2153dc49fcaf4&c_uniq_tag=XlQRFAgta3Swbw9HMIvF5sxSN1WrZikC82mpx0A_RVQ&type=album",
+                    "type": "x",
+                    "width": 604
+                  },
+                  {
+                    "height": 506,
+                    "url": "https://sun1-55.userapi.com/impg/mhf8naNF4OrNhecQF0fZMgPW9onI0npRVg2Mmw/eT6ERxIaOcc.jpg?size=807x506&quality=95&sign=00b67a73c01b7aefe652bdda972c870e&c_uniq_tag=VYkBF7P7IosZ_n6a9MGR7D7rIybsVBxR64z0LOeGLtc&type=album",
+                    "type": "y",
+                    "width": 807
+                  },
+                  {
+                    "height": 753,
+                    "url": "https://sun1-55.userapi.com/impg/mhf8naNF4OrNhecQF0fZMgPW9onI0npRVg2Mmw/eT6ERxIaOcc.jpg?size=1200x753&quality=95&sign=b252bff7d12525c3b9c8f6cd5a634449&c_uniq_tag=g6YQOT21e9kWuEzQmZWKyeJBC_l8oA1CG9dGM-weWMw&type=album",
+                    "type": "z",
+                    "width": 1200
+                  },
+                  {
+                    "height": 87,
+                    "url": "https://sun1-55.userapi.com/impg/mhf8naNF4OrNhecQF0fZMgPW9onI0npRVg2Mmw/eT6ERxIaOcc.jpg?size=130x87&quality=95&crop=37,0,1125,753&sign=f98e7f5508e00988b0b2c58c8d06a956&c_uniq_tag=yxRIq4Af3Z90kDev-wH7QYoLBN8TPpMohfQKMpAfPNU&type=album",
+                    "type": "o",
+                    "width": 130
+                  },
+                  {
+                    "height": 133,
+                    "url": "https://sun1-55.userapi.com/impg/mhf8naNF4OrNhecQF0fZMgPW9onI0npRVg2Mmw/eT6ERxIaOcc.jpg?size=200x133&quality=95&crop=34,0,1132,753&sign=cac5a0c6802c2dd755f0019c19ff8e27&c_uniq_tag=Sm4flAz9rTp8OXFx7JszBWxG8OWW5G7CHLX1iPX_rn0&type=album",
+                    "type": "p",
+                    "width": 200
+                  },
+                  {
+                    "height": 213,
+                    "url": "https://sun1-55.userapi.com/impg/mhf8naNF4OrNhecQF0fZMgPW9onI0npRVg2Mmw/eT6ERxIaOcc.jpg?size=320x213&quality=95&crop=34,0,1131,753&sign=0f4b248809f72ce8c57ae93c0d0d4273&c_uniq_tag=7Hze3rzwuYzjlQTms2KGb-aXmGNDjgrpGa1n2nFfeWU&type=album",
+                    "type": "q",
+                    "width": 320
+                  },
+                  {
+                    "height": 340,
+                    "url": "https://sun1-55.userapi.com/impg/mhf8naNF4OrNhecQF0fZMgPW9onI0npRVg2Mmw/eT6ERxIaOcc.jpg?size=510x340&quality=95&crop=35,0,1129,753&sign=309fb8ebe7bd335ae9810c667c40bd71&c_uniq_tag=cMF5cYTGm9T1yBXkgFTqMXX44uuxCvXn0QIUwZClpy0&type=album",
+                    "type": "r",
+                    "width": 510
+                  }
+                ],
+                "text": "",
+                "user_id": 100,
+                "has_tags": false
+              }
+            }
+          }
+        ],
+        "post_source": { "type": "vk" },
+        "comments": { "can_post": 1, "count": 1, "groups_can_post": true },
+        "likes": {
+          "can_like": 1,
+          "count": 7,
+          "user_likes": 0,
+          "can_publish": 1
+        },
+        "reposts": { "count": 2, "user_reposted": 0 },
+        "views": { "count": 3195 },
+        "donut": { "is_donut": false },
+        "short_text_rate": 0.8,
+        "hash": "C4DdklGBm2nWsx-HAd5y9KZbM-m1"
+      },
+      {
+        "id": 1487747,
+        "from_id": -20629724, 
+        "text": "Что такое клиринг, как он работает и реализован на примере платёжной системы «Мир»\n\nПокупки с помощью карты стали неотъемлемым атрибутом современной жизни. В прошлом году жители страны совершили более 21 миллиарда операций банковскими картами. На примере работы клиринговой системы ПС «Мир» рассмотрим, что делается, чтобы справляться с регулярно возрастающей нагрузкой: http://amp.gs/jGLms\n\n#разработка@habr #гиктаймс@habr",
+        "attachments": [
+          {
+            "type": "photo",
+            "photo": {
+              "album_id": -7,
+              "date": 1667412057,
+              "id": 457309788,
+              "owner_id": -20629724,
+              "access_key": "c1e597fb72425d8520",
+              "post_id": 1487747,
+              "sizes": [
+                {
+                  "height": 66,
+                  "url": "https://sun1-55.userapi.com/impg/fvjt0UUaCKCSU77kKdXGoIkAwibel-aTzL66sQ/dwHN80qke-0.jpg?size=130x66&quality=96&sign=0a93afcd8f11bba9c614bcd6057dd3f5&c_uniq_tag=E-MdlwQsgsYYW311i6vlkG99lMEnxulJYL-anpgzPJU&type=album",
+                  "type": "m",
+                  "width": 130
+                },
+                {
+                  "height": 87,
+                  "url": "https://sun1-55.userapi.com/impg/fvjt0UUaCKCSU77kKdXGoIkAwibel-aTzL66sQ/dwHN80qke-0.jpg?size=130x87&quality=96&crop=236,0,1527,1022&sign=47405a46f7f97b9862839496866f0880&c_uniq_tag=p2BeQaRUkA7KyT1GyB3JZ-prz5haZR_XPw7v0M75nJ8&type=album",
+                  "type": "o",
+                  "width": 130
+                },
+                {
+                  "height": 133,
+                  "url": "https://sun1-55.userapi.com/impg/fvjt0UUaCKCSU77kKdXGoIkAwibel-aTzL66sQ/dwHN80qke-0.jpg?size=200x133&quality=96&crop=231,0,1537,1022&sign=0d35fa1416f7682ffc91f3491d46f4e8&c_uniq_tag=o7or0iCD8hRbyawUsRngluk6LmQqaShjFuwnTTIOMLE&type=album",
+                  "type": "p",
+                  "width": 200
+                },
+                {
+                  "height": 213,
+                  "url": "https://sun1-55.userapi.com/impg/fvjt0UUaCKCSU77kKdXGoIkAwibel-aTzL66sQ/dwHN80qke-0.jpg?size=320x213&quality=96&crop=232,0,1535,1022&sign=abf96840e3f6eb02942f3e5a671ccfdd&c_uniq_tag=U_a7dVkZKW4SN6iUasgJ_QbVaQ9DkBu8_MRKHLSjenY&type=album",
+                  "type": "q",
+                  "width": 320
+                },
+                {
+                  "height": 340,
+                  "url": "https://sun1-55.userapi.com/impg/fvjt0UUaCKCSU77kKdXGoIkAwibel-aTzL66sQ/dwHN80qke-0.jpg?size=510x340&quality=96&crop=233,0,1533,1022&sign=5cbf52892575fc80663d7a87bb6ba194&c_uniq_tag=DTatcxiufnJfqBsVCX-dzN_TMWNi44STztSRZNGrF3w&type=album",
+                  "type": "r",
+                  "width": 510
+                },
+                {
+                  "height": 38,
+                  "url": "https://sun1-55.userapi.com/impg/fvjt0UUaCKCSU77kKdXGoIkAwibel-aTzL66sQ/dwHN80qke-0.jpg?size=75x38&quality=96&sign=203c7e85be853744364be0db4999f30b&c_uniq_tag=nrXi-friiYny1jl62LxsVmzxzufNTjSm4cWKQj5SV5E&type=album",
+                  "type": "s",
+                  "width": 75
+                },
+                {
+                  "height": 1022,
+                  "url": "https://sun1-55.userapi.com/impg/fvjt0UUaCKCSU77kKdXGoIkAwibel-aTzL66sQ/dwHN80qke-0.jpg?size=2000x1022&quality=96&sign=f924351641e2958d186c555b5af68c9f&c_uniq_tag=NC68IZxcevJfRpbOMZM1cnLiVsfFiVUFWsdTBSZdPH0&type=album",
+                  "type": "w",
+                  "width": 2000
+                },
+                {
+                  "height": 309,
+                  "url": "https://sun1-55.userapi.com/impg/fvjt0UUaCKCSU77kKdXGoIkAwibel-aTzL66sQ/dwHN80qke-0.jpg?size=604x309&quality=96&sign=b7bbe77ce0e64e1eacae1a00a022aa93&c_uniq_tag=Mf9HPzb6kCFxya_WFUSYcriNbdy-fch1ygICUTvUs-0&type=album",
+                  "type": "x",
+                  "width": 604
+                },
+                {
+                  "height": 412,
+                  "url": "https://sun1-55.userapi.com/impg/fvjt0UUaCKCSU77kKdXGoIkAwibel-aTzL66sQ/dwHN80qke-0.jpg?size=807x412&quality=96&sign=2bbb5f63f6751e62f79c69b39eeb46a2&c_uniq_tag=jCSPkjgGKbJ_1Iw6zlkk2CUUxG7dY81nRd7ABde4ag0&type=album",
+                  "type": "y",
+                  "width": 807
+                },
+                {
+                  "height": 654,
+                  "url": "https://sun1-55.userapi.com/impg/fvjt0UUaCKCSU77kKdXGoIkAwibel-aTzL66sQ/dwHN80qke-0.jpg?size=1280x654&quality=96&sign=ddb75d957d0e9ef46949ac88ca5d1c72&c_uniq_tag=cF8R7FJ0h_EwC7JfoOSyEIdFp0Exm_40H-QJXDVbY1E&type=album",
+                  "type": "z",
+                  "width": 1280
+                }
+              ],
+              "text": "Что такое клиринг, как он работает и реализован на примере платёжной системы «Мир»\n\nПокупки с помощью карты стали неотъемлемым атрибутом современной жизни. В прошлом году жители страны совершили более 21 миллиарда операций банковскими картами. На примере работы клиринговой системы ПС «Мир» рассмотрим, что делается, чтобы справляться с регулярно возрастающей нагрузкой: http://amp.gs/jGLms\n\n#разработка@habr #гиктаймс@habr",
+              "user_id": 100,
+              "has_tags": false
+            }
+          }
+        ],
+        "post_source": { "type": "api" },
+        "comments": { "can_post": 1, "count": 3, "groups_can_post": true },
+        "likes": {
+          "can_like": 1,
+          "count": 15,
+          "user_likes": 0,
+          "can_publish": 1
+        },
+        "reposts": { "count": 8, "user_reposted": 0 },
+        "views": { "count": 10587 },
+        "donut": { "is_donut": false },
+        "short_text_rate": 0.8,
+        "hash": "NpjrvXO5uJOuXQlVQb-XEgMnCyg4"
+      }
+    ]
+  }
+}
